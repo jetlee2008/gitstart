@@ -1,3 +1,6 @@
 this is file 2
 
+detail of issue1
 this is main branch
+
+fix
